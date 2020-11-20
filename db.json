@@ -14,5 +14,58 @@
   {"icon":"icon","name":"Red Rooster","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
   {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
   {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"}
-   ]
+   ],
+  
+  "hierarchy":[
+    {
+    "tierTitle": "Concierge  SEC-CLV-17189",
+    "id": 1,
+    "children": [
+      {
+        "tierTitle": "Concierge  SEC-CLV-12367",
+        "id": 2,
+        "children": [
+          {
+            "tierTitle": "Concierge  DIV-CLV-12367",
+            "id": 3,
+            "children": null
+          },
+          {
+            "tierTitle": "Concierge  Advanced Hospitality DIV-CLV-48980",
+            "id": 4,
+            "children": null
+          },
+          {
+            "tierTitle": "Concierge - Ambridge (DIV-CLV-39830)",
+            "id": 5,
+            "children": [
+              {
+                "tierTitle": "Ambridge Best Western - AIM (REG-CLV-40151)",
+                "id": 6,
+                "children": null
+              },
+              {
+                "tierTitle": "Ambridge Carison- AIM (REG-CLV-40148)",
+                "id": 7,
+                "children": [
+                  {
+                    "tierTitle": "Country Inn & Suites - AIM (DIS-CLV-40162)",
+                    "id": 8,
+                    "children": [
+                      {
+                        "tierTitle": "Country Inn & Suites - AIM (COM-CLV-40162)",
+                        "id": 9,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  ]
 }
