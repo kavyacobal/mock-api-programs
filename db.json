@@ -8,9 +8,11 @@
   ],
   "program":[
     {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews","enrollOptions":[
-  {"enrolled": false, "checked": false, "label":"ChickenLicious A", "address": " 1212 Fishy Ln Kansas City, KS"},{"enrolled": true, "checked": true, "label":"ChickenLicious B", "address": "4231 Ewan St Kansas City, KS "}]},
+  {"enrolled": false, "checked": false, "label":"ChickenLicious A", "address": " 1212 Fishy Ln Kansas City, KS"},{"enrolled": true, "checked": true, "label":"ChickenLicious B", "address": "4231 Ewan St Kansas City, KS "},
+    {"enrolled": false, "checked": false, "label":"ChickenLicious A", "address": " 1212 Fishy Ln Kansas City, KS"}]},
   {"icon":"icon","name":"Red Hen","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
   {"icon":"icon","name":"Red Rooster","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
+  {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
   {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"}
    ]
 }
