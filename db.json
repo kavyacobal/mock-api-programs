@@ -7,13 +7,131 @@
         {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"}
   ],
   "program":[
-    {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews","enrollOptions":[
-  {"enrolled": false, "checked": false, "label":"ChickenLicious A", "address": " 1212 Fishy Ln Kansas City, KS"},{"enrolled": true, "checked": true, "label":"ChickenLicious B", "address": "4231 Ewan St Kansas City, KS "},
-    {"enrolled": false, "checked": false, "label":"ChickenLicious A", "address": " 1212 Fishy Ln Kansas City, KS"}]},
-  {"icon":"icon","name":"Red Hen","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
-  {"icon":"icon","name":"Red Rooster","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
-  {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"},
-  {"icon":"icon","name":"ChickenLicious","description":"Bulk Meats, Traditional Cuts, Ready to BBQ, Fryers, Wings, Lets, Rib Meat, Hind Quarter, Claws, Stews"}
+      {
+    "category": "Poultry",
+    "supplierName": "Franz Bakery",
+    "status": "Tier 1 Partner",
+    "programSellingPoints": "Since 1985, D’Artagnan has been at the forefront of the farm-to-table movement, bringing top chefs across the United States, superior-tasting products from small ranches and farms that adhere to strict standards and share our commitment to:  no use of antibiotics or hormones, free-range, natural production, and sustainable, humane farming practices.",
+    "icon": "Icon",
+    "programName": "ChickenLicious",
+    "programDescription": "Description",
+	"subMarkets":"National Supplier"
+    "programLocations": [
+      {
+        "checked": true,
+        "label": "ChickenLicious A",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      },
+      {
+        "checked": false,
+        "label": "ChickenLicious B",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      }
+    ],
+    "enrolled": false,
+    "vendorAccountNo": null,
+    "programComments": null
+  },
+  {
+    "category": "Poultry",
+    "supplierName": "MG Foods",
+    "status": "Tier 1 Partner",
+    "programSellingPoints": "They have pastry, breakfast items and they offering catering. Banquet and Catering Services: In addition to our regular product line, we offer a large selection of our baked goods in smaller portions for your banquet and catering needs.Are you hosting a one - time corporate event? Do you have recurring catering or banquet needs for your business? Our customer service team will work with you to ensure that you have the freshest and best tasting baked goods for your next event.",
+    "icon": "Icon",
+    "programName": "Red Hen",
+    "programDescription": "Description",
+	"subMarkets":"National Supplier"
+    "programLocations": [
+      {
+        "checked": true,
+        "label": "Red Hen A",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      },
+      {
+        "checked": false,
+        "label": "Red Hen B",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      }
+    ],
+    "enrolled": false,
+    "vendorAccountNo": "1234",
+    "programComments": "test Comments 2"
+  },
+    {
+    "category": "Poultry",
+    "supplierName": "MG Foods",
+    "status": "Tier 1 Partner",
+    "programSellingPoints": "They have pastry, breakfast items and they offering catering. Banquet and Catering Services: In addition to our regular product line, we offer a large selection of our baked goods in smaller portions for your banquet and catering needs.Are you hosting a one - time corporate event? Do you have recurring catering or banquet needs for your business? Our customer service team will work with you to ensure that you have the freshest and best tasting baked goods for your next event.",
+    "icon": "Icon",
+    "programName": "Red Hen",
+    "programDescription": "Description",
+	"subMarkets":"National Supplier"
+    "programLocations": [
+      {
+        "checked": true,
+        "label": "Red Hen A",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      },
+      {
+        "checked": false,
+        "label": "Red Hen B",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      }
+    ],
+    "enrolled": false,
+    "vendorAccountNo": "1234",
+    "programComments": "test Comments 2"
+  },
+    {
+    "category": "Poultry",
+    "supplierName": "MG Foods",
+    "status": "Tier 1 Partner",
+    "programSellingPoints": "They have pastry, breakfast items and they offering catering. Banquet and Catering Services: In addition to our regular product line, we offer a large selection of our baked goods in smaller portions for your banquet and catering needs.Are you hosting a one - time corporate event? Do you have recurring catering or banquet needs for your business? Our customer service team will work with you to ensure that you have the freshest and best tasting baked goods for your next event.",
+    "icon": "Icon",
+    "programName": "Red Hen",
+    "programDescription": "Description",
+	"subMarkets":"National Supplier"
+    "programLocations": [
+      {
+        "checked": true,
+        "label": "Red Hen A",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      },
+      {
+        "checked": false,
+        "label": "Red Hen B",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      }
+    ],
+    "enrolled": false,
+    "vendorAccountNo": "1234",
+    "programComments": "test Comments 2"
+  },
+    {
+    "category": "Poultry",
+    "supplierName": "MG Foods",
+    "status": "Tier 1 Partner",
+    "programSellingPoints": "They have pastry, breakfast items and they offering catering. Banquet and Catering Services: In addition to our regular product line, we offer a large selection of our baked goods in smaller portions for your banquet and catering needs.Are you hosting a one - time corporate event? Do you have recurring catering or banquet needs for your business? Our customer service team will work with you to ensure that you have the freshest and best tasting baked goods for your next event.",
+    "icon": "Icon",
+    "programName": "Red Hen",
+    "programDescription": "Description",
+	"subMarkets":"National Supplier"
+    "programLocations": [
+      {
+        "checked": true,
+        "label": "Red Hen A",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      },
+      {
+        "checked": false,
+        "label": "Red Hen B",
+        "address": "1212 Fishy Ln Kansas City, KS"
+      }
+    ],
+    "enrolled": false,
+    "vendorAccountNo": "1234",
+    "programComments": "test Comments 2"
+  }
    ],
   
   "hierarchy":[
