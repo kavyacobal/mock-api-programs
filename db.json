@@ -15,7 +15,7 @@
     "icon": "Icon",
     "programName": "ChickenLicious",
     "programDescription": "Description",
-	"subMarkets":"National Supplier"
+	"subMarkets":"National Supplier",
     "programLocations": [
       {
         "checked": true,
@@ -40,7 +40,7 @@
     "icon": "Icon",
     "programName": "Red Hen",
     "programDescription": "Description",
-	"subMarkets":"National Supplier"
+	"subMarkets":"National Supplier",
     "programLocations": [
       {
         "checked": true,
@@ -65,7 +65,7 @@
     "icon": "Icon",
     "programName": "Red Hen",
     "programDescription": "Description",
-	"subMarkets":"National Supplier"
+	"subMarkets":"National Supplier",
     "programLocations": [
       {
         "checked": true,
@@ -90,7 +90,7 @@
     "icon": "Icon",
     "programName": "Red Hen",
     "programDescription": "Description",
-	"subMarkets":"National Supplier"
+	"subMarkets":"National Supplier",
     "programLocations": [
       {
         "checked": true,
@@ -115,7 +115,7 @@
     "icon": "Icon",
     "programName": "Red Hen",
     "programDescription": "Description",
-	"subMarkets":"National Supplier"
+	"subMarkets":"National Supplier",
     "programLocations": [
       {
         "checked": true,
