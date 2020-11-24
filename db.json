@@ -3,8 +3,8 @@
        {
     "uniqueIdentifier": "01",
     "manufacturerName": "PeanutPremium",
-    "effectiveDate": "March 25 2020",
-    "expirationDate": "April 01 2022",
+    "effectiveDate": "2020-11-26",
+    "expirationDate": "2022-11-26",
     "trackingData": true,
     "uploadContract": "direct_deal.doc"
   },
