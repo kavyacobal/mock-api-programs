@@ -1,10 +1,29 @@
 {
   "manufacturer": [
-      {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"},
-        {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"},
-        {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"},
-        {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"},
-        {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"}
+       {
+    "uniqueIdentifier": "01",
+    "manufacturerName": "PeanutPremium",
+    "effectiveDate": "March 25 2020",
+    "expirationDate": "April 01 2022",
+    "trackingData": true,
+    "uploadContract": "direct_deal.doc"
+  },
+  {
+    "uniqueIdentifier": "02",
+    "manufacturerName": "PeanutPremium",
+    "effectiveDate": "March 25 2020",
+    "expirationDate": "April 01 2022",
+    "trackingData": true,
+    "uploadContract": "direct_deal.doc"
+  },
+  {
+    "uniqueIdentifier": "03",
+    "manufacturerName": "PeanutPremium",
+    "effectiveDate": "March 25 2020",
+    "expirationDate": "April 01 2022",
+    "trackingData": false,
+    "uploadContract": "direct_deal.doc"
+  }
   ],
   "program":[
       {
