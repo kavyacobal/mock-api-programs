@@ -6,7 +6,8 @@
     "effectiveDate": "2020-11-26",
     "expirationDate": "2022-11-26",
     "trackingData": true,
-    "uploadContract": "direct_deal.doc"
+    "uploadContract": null,
+    "uploadContractName": "direct_deal.doc"
   },
   {
     "uniqueIdentifier": "02",
@@ -14,7 +15,8 @@
     "effectiveDate": "2020-11-26",
     "expirationDate": "2022-11-28",
     "trackingData": true,
-    "uploadContract": "direct_deal.doc"
+    "uploadContract": null,
+    "uploadContractName": "direct_deal.doc"
   },
   {
     "uniqueIdentifier": "03",
@@ -22,7 +24,8 @@
     "effectiveDate": "2020-11-26",
     "expirationDate": "2022-11-29",
     "trackingData": false,
-    "uploadContract": "direct_deal.doc"
+    "uploadContract": null,
+    "uploadContractName": "direct_deal.doc"
   }
   ],
   "program":[
