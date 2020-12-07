@@ -176,6 +176,14 @@
     "value": "Baldor Specialty Foods"
   }
   ],
+
+  "elop":{
+	  "orgName": "Baldore",
+	"federalId":"12345",
+	"primaryName":"kavya",
+	"contactTitle":"buyer",
+	"email":null
+  },
   
   "hierarchy":[
     {
