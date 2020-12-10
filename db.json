@@ -222,7 +222,7 @@
       "isAuthorizeFoodbuyInfo": true
     }
   ],
-  "isAcknowledged": true,
+  "isAcknowledged": false,
   "ackApplicantFullName": "string",
   "ackTitle": "string",
   "ackDate": "string",
