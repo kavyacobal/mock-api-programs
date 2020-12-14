@@ -231,55 +231,106 @@
   },
   
   "hierarchy":[
-    {
-    "tierTitle": "Concierge  SEC-CLV-17189",
-    "id": 1,
+  {
+    "tierTitle": "Concierge - HCW Development Regions",
+    "id": "8a9d7dc6-d42f-eb11-a813-000d3a5c0e3c",
+    "isResponsible": false,
     "children": [
       {
-        "tierTitle": "Concierge  SEC-CLV-12367",
-        "id": 2,
+        "tierTitle": "Arizona Region HCWRk testRk test RK test RK test RK test",
+        "id": "10f5e33a-1130-eb11-a813-000d3a33f4ca",
+        "isResponsible": false,
         "children": [
           {
-            "tierTitle": "Concierge  DIV-CLV-12367",
-            "id": 3,
-            "children": null
+            "tierTitle": "Aloft Glendale - HCW",
+            "id": "c061d1c0-6439-eb11-a813-000d3a33f304",
+            "isResponsible": false,
+            "children": []
           },
           {
-            "tierTitle": "Concierge  Advanced Hospitality DIV-CLV-48980",
-            "id": 4,
-            "children": null
+            "tierTitle": "Hilton Garden Inn Chandler - HCW",
+            "id": "c261d1c0-6439-eb11-a813-000d3a33f304",
+            "isResponsible": false,
+            "children": []
           },
           {
-            "tierTitle": "Concierge - Ambridge (DIV-CLV-39830)",
-            "id": 5,
+            "tierTitle": "Residence Inn Chandler South - HCW",
+            "id": "c461d1c0-6439-eb11-a813-000d3a33f304",
+            "isResponsible": false,
+            "children": []
+          },
+          {
+            "tierTitle": "Springhill Suites Goodyear - HCW",
+            "id": "c661d1c0-6439-eb11-a813-000d3a33f304",
+            "isResponsible": false,
+            "children": []
+          },
+          {
+            "tierTitle": "Tru by Hilton Goodyear - HCW",
+            "id": "c861d1c0-6439-eb11-a813-000d3a33f304",
+            "isResponsible": false,
+            "children": []
+          }
+        ]
+      },
+      {
+        "tierTitle": "DoubleTree Evansville - HCW RK test RK test RK test",
+        "id": "0da74fec-1636-eb11-a813-000d3a33f70f",
+        "isResponsible": false,
+        "children": []
+      },
+      {
+        "tierTitle": "Missouri Region HCW RK test RK test RK test",
+        "id": "9275bdb7-0c30-eb11-a813-000d3a5c0e3c",
+        "isResponsible": false,
+        "children": [
+          {
+            "tierTitle": "Branson Hlls Golf Course-HCW RK test RK test RK test",
+            "id": "8daa0b2b-1730-eb11-a813-000d3a33f70f",
+            "isResponsible": false,
+            "children": []
+          },
+          {
+            "tierTitle": "Branson Hlls Landing-HCW RK test RK test RK test",
+            "id": "8faa0b2b-1730-eb11-a813-000d3a33f70f",
+            "isResponsible": false,
+            "children": []
+          },
+          {
+            "tierTitle": "Branson Office RK test RK test RK test",
+            "id": "91aa0b2b-1730-eb11-a813-000d3a33f70f",
+            "isResponsible": false,
             "children": [
               {
-                "tierTitle": "Ambridge Best Western - AIM (REG-CLV-40151)",
-                "id": 6,
-                "children": null
-              },
-              {
-                "tierTitle": "Ambridge Carison- AIM (REG-CLV-40148)",
-                "id": 7,
+                "tierTitle": "Shilpa Tree Level test",
+                "id": "933432-1730-eb11-a813-000d3a33f70f",
+                "isResponsible": false,
                 "children": [
                   {
-                    "tierTitle": "Country Inn & Suites - AIM (DIS-CLV-40162)",
-                    "id": 8,
-                    "children": [
-                      {
-                        "tierTitle": "Country Inn & Suites - AIM (COM-CLV-40162)",
-                        "id": 9,
-                        "children": null
-                      }
-                    ]
+                    "tierTitle": "Dravidam Tree Level test",
+                    "id": "911111-1730-eb11-a813-000d3a33f70f",
+                    "isResponsible": false,
+                    "children": []
                   }
                 ]
               }
             ]
+          },
+          {
+            "tierTitle": "Hilton Branson Convention Center - HCW RK test RK test RK test",
+            "id": "93aa0b2b-1730-eb11-a813-000d3a33f70f",
+            "isResponsible": false,
+            "children": []
+          },
+          {
+            "tierTitle": "Hilton Promendate at Branson Landing - HCW RK test RK test RK test",
+            "id": "95aa0b2b-1730-eb11-a813-000d3a33f70f",
+            "isResponsible": false,
+            "children": []
           }
         ]
       }
     ]
   }
-  ]
+]
 }
