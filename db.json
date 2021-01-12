@@ -201,10 +201,10 @@
   "elop":{
 	"classofTradeCategory": "HealthCare",
   "classofTradeSubCategory": "Acute",
-  "organizationName": null,
+  "organizationName": "sample",
   "dba": "string",
   "federalId": "string",
-  "primaryFullName": null,
+  "primaryFullName": "kavya",
   "contactTitle": "string",
   "email": "string",
   "phoneNumber": "string",
@@ -247,7 +247,7 @@
   "ackApplicantFullName": "string",
   "ackTitle": "string",
   "ackDate": "string",
-  "signature": "string",
+  "signature": null,
   "eLOPFormPDF": "string"
   }
   
