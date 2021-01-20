@@ -147,37 +147,7 @@
                   "zipCode": ""
                 },
                 "children": []
-              },
-              {
-                "tierTitle": "Tru by Hilton Goodyear - HCW 2",
-                "id": "9ea16072-ce50-eb11-bf68-000d3a33f70f",
-                "isResponsible": false,
-                "isChecked": false,
-                "address": {
-                  "street1": "",
-                  "street2": "",
-                  "city": "",
-                  "state": "",
-                  "county": "",
-                  "zipCode": ""
-                },
-                "children": []
-              },
-              {
-                "tierTitle": "Tru by Hilton Goodyear - HCW 3",
-                "id": "a0a16072-ce50-eb11-bf68-000d3a33f70f",
-                "isResponsible": true,
-                "isChecked": false,
-                "address": {
-                  "street1": "",
-                  "street2": "",
-                  "city": "",
-                  "state": "",
-                  "county": "",
-                  "zipCode": ""
-                },
-                "children": []
-              }
+              }   
             ]
           }
 	],
