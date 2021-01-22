@@ -9,18 +9,6 @@
     "programName": "ChickenLicious",
     "programDescription": "Description",
 	"subMarkets":"National Supplier",
-    "programLocations": [
-      {
-        "checked": true,
-        "label": "ChickenLicious A",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      },
-      {
-        "checked": false,
-        "label": "ChickenLicious B",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      }
-    ],
    "hierarchyStruture": [
       {
         "tierTitle": "Concierge - HCW Development Regions",
@@ -45,7 +33,7 @@
             "children": []
           },
           {
-            "tierTitle": "Aloft Glendale - HCW",
+            "tierTitle": "Aloft Glendale - HCW 1",
             "id": "4126c7fa-eb39-eb11-a813-000d3a33f1c1",
             "isResponsible": false,
             "isChecked": false,
@@ -120,7 +108,7 @@
                 },
                 "children": [
 				{
-                "tierTitle": "Tru by Hilton Goodyear - HCW",
+                "tierTitle": "Tru by Hilton Goodyear - HCW 2",
                 "id": "9aa16072-ce50-eb11-bf68-000d3a33f70f",
                 "isResponsible": false,
                 "isChecked": false,
@@ -170,18 +158,6 @@
     "programName": "Red Hen",
     "programDescription": null,
 	"subMarkets":"National Supplier",
-    "programLocations": [
-      {
-        "checked": true,
-        "label": "Red Hen A",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      },
-      {
-        "checked": false,
-        "label": "Red Hen B",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      }
-    ],
     "enrolled": false,
     "vendorAccountNo": "1234",
     "programComments": "test Comments 2"
@@ -195,18 +171,6 @@
     "programName": "Red Hen",
     "programDescription": "Description",
 	"subMarkets":"National Supplier",
-    "programLocations": [
-      {
-        "checked": true,
-        "label": "Red Hen A",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      },
-      {
-        "checked": false,
-        "label": "Red Hen B",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      }
-    ],
     "enrolled": false,
     "vendorAccountNo": "1234",
     "programComments": "test Comments 2"
@@ -220,18 +184,6 @@
     "programName": "Red Hen",
     "programDescription": "Description",
 	"subMarkets":"National Supplier",
-    "programLocations": [
-      {
-        "checked": true,
-        "label": "Red Hen A",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      },
-      {
-        "checked": false,
-        "label": "Red Hen B",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      }
-    ],
     "enrolled": false,
     "vendorAccountNo": "1234",
     "programComments": "test Comments 2"
@@ -245,18 +197,6 @@
     "programName": "Red Hen",
     "programDescription": "Description",
 	"subMarkets":"National Supplier",
-    "programLocations": [
-      {
-        "checked": true,
-        "label": "Red Hen A",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      },
-      {
-        "checked": false,
-        "label": "Red Hen B",
-        "address": "1212 Fishy Ln Kansas City, KS"
-      }
-    ],
     "enrolled": false,
     "vendorAccountNo": "1234",
     "programComments": "test Comments 2"
