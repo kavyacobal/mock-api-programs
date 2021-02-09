@@ -24,12 +24,14 @@
             "isResponsible": true,
             "isChecked": false,
             "address": {
-              "street1": "",
-              "street2": "",
-              "city": "",
-              "state": "",
-              "county": "",
-              "zipCode": ""
+                       "street1": "string",
+          "street2": "string",
+          "fullAddress": "string",
+          "city": "string",
+          "state": "string",
+          "county": "string",
+          "zipCode": "string",
+          "country": "string"
             },
             "children": []
           },
