@@ -110,7 +110,7 @@
   {
     "category": "Poultry",
 	   "distributorId":"2",
-    "supplierName": "MG Foods",
+    "supplierName": "American Hotel",
     "status": "Tier 1 Partner",
     "programSellingPoints": "They have pastry, breakfast items and they offering catering. Banquet and Catering Services: In addition to our regular product line, we offer a large selection of our baked goods in smaller portions for your banquet and catering needs.Are you hosting a one - time corporate event? Do you have recurring catering or banquet needs for your business? Our customer service team will work with you to ensure that you have the freshest and best tasting baked goods for your next event.",
     "icon": "icon1",
@@ -216,7 +216,7 @@
                 "tierTitle": "Springhill Suites Goodyear - HCW",
                 "id": "98a16072-ce50-eb11-bf68-000d3a33f70f",
                 "isResponsible": false,
-                "isChecked": false,
+                "isChecked": true,
                 "address": {
                   "street1": "",
                   "street2": "",
