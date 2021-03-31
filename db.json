@@ -214,23 +214,7 @@
                   "county": "",
                   "zipCode": ""
                 },
-                "children": [
-				{
-                "tierTitle": "Springhill Suites Goodyear - HCW",
-                "id": "98a16072-ce50-eb11-bf68-000d3a33f70f",
-                "isResponsible": false,
-                "isChecked": true,
-                "address": {
-                  "street1": "",
-                  "street2": "",
-                  "city": "",
-                  "state": "",
-                  "county": "",
-                  "zipCode": ""
-                },
                 "children": []
-              }
-				]
               }
 				]
               }   
