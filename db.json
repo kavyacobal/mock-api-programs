@@ -24,6 +24,7 @@
             "id": "ddc1fdcf-b23b-eb11-a813-000d3a30f12c",
             "isResponsible": true,
             "isChecked": false,
+	    "isEnrolledPending":true,
             "address": {
                        "street1": "string",
           "street2": "string",
@@ -41,6 +42,7 @@
             "id": "4126c7fa-eb39-eb11-a813-000d3a33f1c1",
             "isResponsible": false,
             "isChecked": false,
+	    "isEnrolledPending":true,
             "address": null,
             "children": []
           },
@@ -56,6 +58,7 @@
                 "id": "7a1bf2d5-f348-eb11-bf68-000d3a33f4ca",
                 "isResponsible": false,
                 "isChecked": false,
+		"isEnrolledPending":true,
                 "address": {
                   "street1": "",
                   "street2": "",
