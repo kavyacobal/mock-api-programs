@@ -26,6 +26,7 @@
     "programDescription": null,
 	"subMarkets":"National Supplier",
 	"websiteUrl":"www.google.com",
+	  "prefferedSupplier":true;
     "enrolled": false,
     "vendorAccountNo": "1234",
     "programComments": "test Comments 2"
