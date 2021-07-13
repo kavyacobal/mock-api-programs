@@ -16,7 +16,7 @@
     "programComments": null
   },
   {
-    "category": "8fc6de62-62e4-e911-a994-000d3a328d2e",
+    "category": "Alcohol",
 	   "distributorId":"2",
     "supplierName": "American Hotel",
     "status": "Tier 1 Partner",
@@ -25,115 +25,13 @@
     "programName": "Red Hen",
     "programDescription": null,
 	"subMarkets":"National Supplier",
-	  "hierarchyStruture": [
-      {
-        "tierTitle": "Concierge - HCW Development Regions",
-        "id": "8a9d7dc6-d42f-eb11-a813-000d3a5c0e3c",
-        "isResponsible": false,
-        "isChecked": true,
-        "address": null,
-        "children": [
-          {
-            "tierTitle": "Aloft Glendale - HCW",
-            "id": "ddc1fdcf-b23b-eb11-a813-000d3a30f12c",
-            "isResponsible": true,
-            "isChecked": false,
-            "address": {
-              "street1": "",
-              "street2": "",
-              "city": "",
-              "state": "",
-              "county": "",
-              "zipCode": ""
-            },
-            "children": []
-          },
-          {
-            "tierTitle": "Aloft Glendale - HCW er",
-            "id": "4126c7fa-eb39-eb11-a813-000d3a33f1c13",
-            "isResponsible": false,
-            "isChecked": false,
-            "address": {
-              "street1": "",
-              "street2": "",
-              "city": "",
-              "state": "",
-              "county": "",
-              "zipCode": ""
-            },
-            "children": []
-          },
-          {
-            "tierTitle": "Arizona Region HCW Test 1",
-            "id": "0a2c8b78-b43b-eb11-a813-000d3a33f70fff",
-            "isResponsible": false,
-            "isChecked": false,
-            "address": {
-              "street1": "",
-              "street2": "",
-              "city": "",
-              "state": "",
-              "county": "",
-              "zipCode": ""
-            },
-            "children": [
-              {
-                "tierTitle": "Springhill Suites Goodyear - HCW",
-                "id": "7a1bf2d5-f348-eb11-bf68-000d3a33f4ca",
-                "isResponsible": false,
-                "isChecked": false,
-                "address": {
-                  "street1": "",
-                  "street2": "",
-                  "city": "",
-                  "state": "",
-                  "county": "",
-                  "zipCode": ""
-                },
-                "children": []
-              },
-              {
-                "tierTitle": "Tru by Hilton Goodyear - HCW 1",
-                "id": "9ca16072-ce50-eb11-bf68-000d3a33f70f",
-                "isResponsible": true,
-                "isChecked": false,
-                "address": {
-                  "street1": "",
-                  "street2": "",
-                  "city": "",
-                  "state": "",
-                  "county": "",
-                  "zipCode": ""
-                },
-                "children": [
-				{
-                "tierTitle": "Tru by Hilton Goodyear - HCW 2",
-                "id": "9aa16072-ce50-eb11-bf68-000d3a33f70f",
-                "isResponsible": false,
-                "isChecked": false,
-                "address": {
-                  "street1": "",
-                  "street2": "",
-                  "city": "",
-                  "state": "",
-                  "county": "",
-                  "zipCode": ""
-                },
-                "children": []
-              }
-				]
-              }   
-            ]
-	  }
-          ]
-          }
-	],
+	
     "enrolled": false,
     "vendorAccountNo": "1234",
     "programComments": "test Comments 2"
   },
     {
-    "category": "8fc6de62-62e4-e911-a994-000d3a328d2e",
+    "category": "Alcohol",
 	     "distributorId":"3",
     "supplierName": "MG Foods",
     "status": "Tier 1 Partner",
@@ -148,7 +46,7 @@
     "programComments": "test Comments 2"
   },
     {
-    "category": "8dc6de62-62e4-e911-a994-000d3a328d2e",
+    "category": "Bakery",
     "supplierName": "MG Foods",
     "status": "Tier 1 Partner",
     "programSellingPoints": "They have pastry, breakfast items and they offering catering. Banquet and Catering Services: In addition to our regular product line, we offer a large selection of our baked goods in smaller portions for your banquet and catering needs.Are you hosting a one - time corporate event? Do you have recurring catering or banquet needs for your business? Our customer service team will work with you to ensure that you have the freshest and best tasting baked goods for your next event.",
